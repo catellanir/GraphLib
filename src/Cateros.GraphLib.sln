@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cateros.GraphLib", "Cateros.GraphLib\Cateros.GraphLib.csproj", "{09F02B9E-A462-42DE-9B7F-44D8DDC0550D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cateros.GraphLib.TestProject", "..\Cateros.GraphLib.TestProject\Cateros.GraphLib.TestProject.csproj", "{8C7F756D-D495-4738-BD34-183197A1D03E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F02B9E-A462-42DE-9B7F-44D8DDC0550D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F02B9E-A462-42DE-9B7F-44D8DDC0550D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F02B9E-A462-42DE-9B7F-44D8DDC0550D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F02B9E-A462-42DE-9B7F-44D8DDC0550D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7F756D-D495-4738-BD34-183197A1D03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7F756D-D495-4738-BD34-183197A1D03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7F756D-D495-4738-BD34-183197A1D03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7F756D-D495-4738-BD34-183197A1D03E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -5,7 +5,7 @@
         where E: Edge<E, N> 
     {
         public int Id {  get; } = id;
-        public IEnumerable<E> OutgoingEdges{ get; } = [];
-        public IEnumerable<E> IncomingEdges{ get; } = [];
+        public IList<E> OutgoingEdges{ get; } = [];
+        public IList<E> IncomingEdges{ get; } = [];
     }
 }
